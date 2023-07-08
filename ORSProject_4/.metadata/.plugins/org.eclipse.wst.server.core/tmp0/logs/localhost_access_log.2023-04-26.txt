@@ -1,0 +1,17 @@
+127.0.0.1 - - [26/Apr/2023:14:58:38 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:14:58:39 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 640
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:14:58:39 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:14:58:42 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1141
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:14:58:44 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2936
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:14:58:48 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:14:58:48 +0530] "GET /ORS_Project4/UserRegistrationCtl HTTP/1.1" 200 5624
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:14:58:48 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:24:32 +0530] "POST /ORS_Project4/UserRegistrationCtl HTTP/1.1" 200 5823
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:24:32 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:32:41 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2936
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:32:54 +0530] "GET /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2190
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:35:55 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2936
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:39:55 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2936
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:43:25 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:43:25 +0530] "GET /ORS_Project4/UserRegistrationCtl HTTP/1.1" 200 5624
+0:0:0:0:0:0:0:1 - - [26/Apr/2023:15:43:25 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784

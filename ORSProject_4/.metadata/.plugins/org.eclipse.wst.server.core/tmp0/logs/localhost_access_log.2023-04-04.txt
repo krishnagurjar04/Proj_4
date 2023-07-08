@@ -1,0 +1,10 @@
+127.0.0.1 - - [04/Apr/2023:23:06:13 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:06:14 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 640
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:06:14 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:06:17 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1141
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:06:20 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2926
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:07:09 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:07:09 +0530] "GET /ORS_Project4/UserRegistrationCtl HTTP/1.1" 200 5624
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:07:09 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:16:39 +0530] "POST /ORS_Project4/UserRegistrationCtl HTTP/1.1" 200 5823
+0:0:0:0:0:0:0:1 - - [04/Apr/2023:23:16:39 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784

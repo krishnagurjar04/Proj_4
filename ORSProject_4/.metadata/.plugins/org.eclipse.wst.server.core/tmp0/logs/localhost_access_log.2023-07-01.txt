@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:54:50 +0530] "GET /ORS_Project4/ctl/FacultyCtl HTTP/1.1" 200 3012
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:54:56 +0530] "GET /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2190
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:54:59 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2936
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:56:05 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:56:05 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 2933
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:56:35 +0530] "GET /ORS_Project4/ctl/FacultyCtl HTTP/1.1" 200 9808
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:56:35 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:57:16 +0530] "GET /ORS_Project4/ctl/MyProfileCtl HTTP/1.1" 200 5878
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:20:57:16 +0530] "GET /ORS_Project4/js/calendar.js HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:21:01:16 +0530] "GET /ORS_Project4/ctl/FacultyListCtl HTTP/1.1" 200 9915
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:21:03:51 +0530] "POST /ORS_Project4/ctl/FacultyListCtl HTTP/1.1" 200 7329
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:21:03:56 +0530] "GET /ORS_Project4/ctl/FacultyListCtl HTTP/1.1" 200 9915
+0:0:0:0:0:0:0:1 - - [01/Jul/2023:21:38:07 +0530] "POST /ORS_Project4/ctl/FacultyListCtl HTTP/1.1" 200 3016
